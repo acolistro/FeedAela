@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748895439575",
+    "project_id": "feedaela",
+    "storage_bucket": "feedaela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748895439575:android:e39ccce00539dae56f3e92",
+        "android_client_info": {
+          "package_name": "com.example.feedaela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748895439575-msh6uhman2nvivrsbhflc0sp0lh8r2p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0VVe1TK_Cow5xIsg0O8DiYCmSgHQbag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748895439575-msh6uhman2nvivrsbhflc0sp0lh8r2p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
